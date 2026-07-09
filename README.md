@@ -1,3 +1,13 @@
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)
+
+![ETL](https://img.shields.io/badge/ETL-Pipeline-success)
+
+![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
 ────────────────────────────────────────────────────────────
 
 GitHub Organization ETL Pipeline
