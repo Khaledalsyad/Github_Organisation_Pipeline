@@ -1,3 +1,14 @@
+────────────────────────────────────────────────────────────
+
+GitHub Organization ETL Pipeline
+
+Production-Ready Data Engineering Project
+
+Python • PostgreSQL • SQLAlchemy • Pandas • APScheduler
+
+────────────────────────────────────────────────────────────
+
+
 # GitHub Organization ETL Pipeline
 
 > A production-ready ETL Pipeline that extracts repositories from GitHub Organizations, transforms the data, incrementally loads it into PostgreSQL, tracks metadata, sends email notifications, and runs automatically on a schedule.
