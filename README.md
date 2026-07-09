@@ -8,6 +8,11 @@
 
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+![Pandas](https://img.shields.io/badge/Pandas-2.x-blue)
+
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.x-red)
+
+![APScheduler](https://img.shields.io/badge/APScheduler-Automation-orange)
 ────────────────────────────────────────────────────────────
 
 GitHub Organization ETL Pipeline
